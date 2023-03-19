@@ -17,5 +17,5 @@ Já na parte inferior, temos todas as ferramentas que podemos utilizar para trab
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ## Screenshots
 
-![App Screenshot](https://help.figma.com/hc/article_attachments/1500011001362/FigJam.png)
+![App Screenshot](https://help.figma.com/hc/article_attachments/4764432432919/GIF_4_GRAB_2x.gif)
 
