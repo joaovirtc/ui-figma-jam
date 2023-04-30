@@ -5,7 +5,7 @@ A interface visual do FigJam é mais simples do que se pode imaginar e extremame
 
 Já na parte inferior, temos todas as ferramentas que podemos utilizar para trabalhar no arquivo.
 
-
+## Preview
 ![App Screenshot](https://help.figma.com/hc/article_attachments/4764432432919/GIF_4_GRAB_2x.gif)
 
 
@@ -19,7 +19,7 @@ Já na parte inferior, temos todas as ferramentas que podemos utilizar para trab
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-## Preview
+
 
 
 
